@@ -31,16 +31,4 @@ class Abnfgen < Formula
     system "#{bin}/abnfgen", (testpath/"grammar")
   end
 end
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
- You signed in with another tab or window. Reload to 
+
